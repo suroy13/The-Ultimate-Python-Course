@@ -6,4 +6,4 @@ if __name__ == "__main__":
     a.getInfo()
     a.dept = "FINSRV"
     a.role = "SDET"
-    a.getInfo()
+    a.getInfo()  # This will print the updated information
